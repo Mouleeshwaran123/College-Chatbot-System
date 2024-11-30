@@ -1,0 +1,33 @@
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #ffbc3b;
+}
+.navbar-inverse {
+    background-color: #ffbc3b;
+    border-color: #ffbc3b;
+}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+    color: #ffffff;
+    background-color: #c49a1afc;
+}
+a {
+    color: #ffbc3b;
+    text-decoration: none;
+}
+h3, .h3 {
+    font-size: 26px;
+    font-weight: 500;
+}
+.btn-default {
+    color: #ffffff;
+    background-color: #ffbc3b;
+    border-color: #ffbc3b;
+}
+.btn-default:hover {
+    color: #ffffff;
+    background-color: #ffbc3b;
+    border-color: #ffbc3b;
+}
+a:hover, a:focus {
+    color: #ffbc3b;
+    text-decoration: underline;
+}
